@@ -31,6 +31,14 @@ For our research questions we will not need any additional datasets, except from
 - 10.12 Comparing performances of summarization and classification methods
 - 17.12 Finalizing README, final comments on the code and performed analysis, finalizing the data story
 
+| Deadline | Description                                                                                                                                                                                                                                                                                                  |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 19.11    | Deviding countries of the nationalities into regions based on geographical and social-economical aspect combined, performing additionl analysis between different regions and the popularity of the climate change topic in quotes from those regions, distinguishing between leftwing and rightwing parties |
+| 26.11    | Checking the results of analysis                                                                                                                                                                                                                                                                             |
+| 03.12    | Analysing the first results of fasttext classification and text summarization algorithms                                                                                                                                                                                                                     |
+| 10.12    | Comparing performances of summarization and classification methods                                                                                                                                                                                                                                           |
+| 17.12    | Finalizing README, final comments on the code and performed analysis, finalizing the data story                                                                                                                                                                                                              |
+
 ## Organization within the team
 
 - Jovana: Preparing the data for future work, performing the text summarization algorithms and comparing the results

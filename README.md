@@ -31,7 +31,7 @@ For our research questions we will not need any additional datasets, except from
 
 ## Organization within the team
 
-Jovana: Preparing the data for future work, performing the text summarization algorithms and comparing the results
-Maxence: Planning the data story and the final readme file
-Zoran: Implementing the classification using the fasttext library
-Jonatan: Primary data analysis, visualization of the key features for our problem, plotting the results
+- Jovana: Preparing the data for future work, performing the text summarization algorithms and comparing the results
+- Maxence: Planning the data story and the final readme file
+- Zoran: Implementing the classification using the fasttext library
+- Jonatan: Primary data analysis, visualization of the key features for our problem, plotting the results

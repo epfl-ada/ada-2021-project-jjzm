@@ -16,7 +16,7 @@ For our research questions we will not need any additional datasets, except from
 
 ## Methods
 
-- Fasttext
+- Fasttext - The fasttext library
 - Observational studies
 - TextRank 
 - LexRank

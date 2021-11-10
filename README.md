@@ -4,10 +4,11 @@
 
 ## Research questions
 
-1. What political paries have talked the most about climate change in the media?
+1. What political parties have talked the most about climate change in the media?
 2. Does the age of the speaker cause difference in the attitude and concerns one has about the climate change?
-3. Analysis of climate change concerns in different regions of the world. REFORMULATE!!!
-4. What are the biggest concerns about the climate change in the world?
+3. How much is climate change discussed among people of different nationalities all around the globe?
+4. Does one region of the world have more opinions about climate change than others?
+5. What are the biggest concerns about the climate change in the world as shown in the media?
 
 ## Proposed additional datasets
 
@@ -16,7 +17,7 @@ For our research questions we will not need any additional datasets, except from
 ## Methods
 
 - Fasttext
-- Observational studies??
+- Observational studies
 - TextRank 
 - LexRank
 - LSA Latent Semantic Analysis

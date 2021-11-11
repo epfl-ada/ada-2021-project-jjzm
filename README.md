@@ -1,5 +1,7 @@
 # JJZM Project - The (under)talked problem of Climate Change
 
+![alt text](https://www.itu.int/en/mediacentre/backgrounders/PublishingImages/climate-change-backgrounder.jpg)
+
 ## Abstract
 
 Climate change is a global issue with global repercussions. We read, see, hear every day about the ecological disaster we are facing. 

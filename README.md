@@ -8,14 +8,16 @@
 
 *"We have a single mission: to protect and hand on the planet to the next generation."* - Francois Hollande
 
-Climate change is a global issue with global repercussions. We read, see, hear every day about the ecological disaster we are facing. 
+Climate change is a global issue with global repercussions. We read, see, hear every day about the ecological disaster we are facing.
+
 We will try through this study to see if we can deny or not some prejudice about climate change. For example, what kind of people are concerned about climate change. Is it always the youngest? Left-wing politicians? 
-As well, we will see the evolution of the vision of climate change through the years. In fact, with all the data we have, we want to see the correlation we can find between the author’s characteristics (age, country, city, political party, etc) and the quote.
+
+As well, we will observe the evolution of the vision of climate change through the years. In fact, with all the data we have, we want to see the correlation we can find between the author’s characteristics (age, country, city, political party, etc) and the quote.
 Finally, we want to add some external database about climate change so that we can support our words.
 ## Research questions
 
 1. What political parties have talked the most about climate change in the media?
-2. Can we make a statement about the diversity between left-wing, center,  and right-wing parties' quotes about climate change?
+2. Can we make a statement about the diversity between left-wing, center, and right-wing parties' quotes about climate change?
 3. Does the age of the speaker cause difference in the attitude and concerns one has about the climate change?
 4. How is climate change discussed among people of different nationalities all around the globe?
 5. Do people from one region of the world have different opinions about climate change than the ones from other regions?
@@ -26,6 +28,8 @@ Finally, we want to add some external database about climate change so that we c
 For our research questions we will not need any additional datasets, except from the information obtained from Wikidata. More precisely, we are enriching the Quotebank dataset with additional data about the speaker - their nationality, age and political party.
 
 ## Methods
+
+The methods, libraries, and algorithms that we going to use rely on the principles of text analysis, text summarization, and sentiment analysis. With the intention of addressing our research questions, we have chosen the following methods as the ones we find most suitable for dealing with the Quotebank data set:
 
 - Fasttext - The fasttext library will allow us to perform a classification and try to distinguish between the quotes that were stated by someone in a left-wing or in a right-wing political party.
 - Observational study - Based on the sentiment score of every quote, we will execute an observational study. The goal is to determine if there would be a difference when we compare the sentiment scores among people with similar observed covarities. For this, we will compare groups from different regions, political parties, and age.
@@ -53,5 +57,5 @@ For our research questions we will not need any additional datasets, except from
 
 ## To go further
 
- We can try to figure out climate change skepticism within the database through Machine Learning.
+We want to figure out climate change skepticism within the database through Machine Learning. Possibility of an external database integration with the purpose of backing all our findings up.
 

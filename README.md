@@ -17,7 +17,7 @@ Finally, we want to add some external database about climate change so that we c
 
 ## Proposed additional datasets
 
-For our research questions we will not need any additional datasets, except from the information gotten from Wikidata. More precisely, we are enriching the Quotebank dataset with additional data about the speaker - their nationality and political party.
+For our research questions we will not need any additional datasets, except from the information obtained from Wikidata. More precisely, we are enriching the Quotebank dataset with additional data about the speaker - their nationality and political party.
 
 ## Methods
 

@@ -6,6 +6,8 @@
 
 ## Abstract
 
+*"We have a single mission: to protect and hand on the planet to the next generation."* - Francois Hollande
+
 Climate change is a global issue with global repercussions. We read, see, hear every day about the ecological disaster we are facing. 
 We will try through this study to see if we can deny or not some prejudice about climate change. For example, what kind of people are concerned about climate change. Is it always the youngest? Left-wing politicians? 
 As well, we will see the evolution of the vision of climate change through the years. In fact, with all the data we have, we want to see the correlation we can find between the author’s characteristics (age, country, city, political party, etc) and the quote.

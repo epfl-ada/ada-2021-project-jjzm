@@ -1,4 +1,4 @@
-# JJZM Project - M2 Outline
+# JJZM Project - The (under)talked problem of Climate Change
 
 ## Abstract
 

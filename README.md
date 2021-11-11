@@ -4,12 +4,12 @@
 
 Climate change is a global issue with global repercussions. We read, see, hear every day about the ecological disaster we are facing. 
 We will try through this study to see if we can deny or not some prejudice about climate change. For example, what kind of people are concerned about climate change. Is it always the youngest? Left-wing politicians? 
-As well, we will try to see the evolution of the vision of climate change through the years. In fact, with all the data we have, we want to see the correlation we can find between the author’s characteristics (age, country, city, political party, etc) and the quote.
+As well, we will see the evolution of the vision of climate change through the years. In fact, with all the data we have, we want to see the correlation we can find between the author’s characteristics (age, country, city, political party, etc) and the quote.
 Finally, we want to add some external database about climate change so that we can support our words.
 ## Research questions
 
 1. What political parties have talked the most about climate change in the media?
-2. Can we make a statement about the diversity between left-wing and right-wing parties' quotes about climate change?
+2. Can we make a statement about the diversity between left-wing, center,  and right-wing parties' quotes about climate change?
 3. Does the age of the speaker cause difference in the attitude and concerns one has about the climate change?
 4. How much is climate change discussed among people of different nationalities all around the globe?
 5. Do people from one region of the world have more opinions about climate change than the ones from other regions?
@@ -31,7 +31,7 @@ For our research questions we will not need any additional datasets, except from
 
 | Deadline | Description                                                                                                                                                                                                                                                                                                  |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 19.11    | Deviding countries of the nationalities into regions based on geographical and social-economical aspect combined, performing additionl analysis between different regions and the popularity of the climate change topic in quotes from those regions, distinguishing between left-wing and right-wing parties |
+| 19.11    | Deviding countries of the nationalities into regions based on geographical and social-economical aspect combined, performing additionl analysis between different regions and the popularity of the climate change topic in quotes from those regions, distinguishing between left-wing, centet and right-wing parties |
 | 26.11    | Checking the results of analysis                                                                                                                                                                                                                                                                             |
 | 03.12    | Analysing the first results of fasttext classification and text summarization algorithms                                                                                                                                                                                                                     |
 | 10.12    | Comparing performances of summarization and classification methods                                                                                                                                                                                                                                           |

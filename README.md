@@ -23,6 +23,7 @@ For our research questions we will not need any additional datasets, except from
 
 - Fasttext - The fasttext library will allow us to perform a classification and try to distinguish between the quotes that were stated by someone in a left-wing or in a right-wing political party.
 - Observational study - Based on the sentiment score of every quote, we will execute an observational study. The goal is to determine if there would be a difference when we compare the sentiment scores among people with similar observed covarities. For this, we will compare groups from different regions, political parties, and age.
+- Sentiment analysis - By adding the sentiment score and category to our quotes powered by the afinn library, we can conclude the statements and opinions that speakers have towards the issue of climate change.
 - TextRank - We will implement this algorithm for the sake of summarizing the quotes we have about climate change. By searching for the words that appear more frequently, sentences that have those words would be marked as the key ones.
 - LexRank - Another way of summarizing the information from the quotes. This time, we will observe the similarity between sentences, and the most similar ones will get picked for the summary.
 - Luhn Summarizer - This algorithm has a different approach, it will leave out the low and high-frequent words as non-significant. Since 'climate change' or 'global warming' appear in every of our quotes, the algorithm will focus on the rest for the summary.

@@ -51,7 +51,7 @@ The methods, libraries, and algorithms that we going to use rely on the principl
 
 ## Organization within the team
 
-- **J**ovana: Preparing the data for future work, performing the text summarization algorithms, and comparing the results
+- <ins>**J**</ins>ovana: Preparing the data for future work, performing the text summarization algorithms, and comparing the results
 - **J**onatan: Primary data analysis, visualization of the key features for our problem, plotting the results
 - **Z**oran: Implementing the classification using the fasttext library
 - **M**axence: Planning the data story and the final readme file, compare groups based on sentiment scores

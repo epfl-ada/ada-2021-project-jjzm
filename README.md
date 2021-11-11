@@ -17,8 +17,8 @@ Finally, we want to add some external database about climate change so that we c
 1. What political parties have talked the most about climate change in the media?
 2. Can we make a statement about the diversity between left-wing, center,  and right-wing parties' quotes about climate change?
 3. Does the age of the speaker cause difference in the attitude and concerns one has about the climate change?
-4. How much is climate change discussed among people of different nationalities all around the globe?
-5. Do people from one region of the world have more opinions about climate change than the ones from other regions?
+4. How is climate change discussed among people of different nationalities all around the globe?
+5. Do people from one region of the world have different opinions about climate change than the ones from other regions?
 6. What are the biggest concerns about the climate change in the world as shown in the media?
 
 ## Proposed additional datasets

@@ -1,7 +1,5 @@
 # JJZM Project - The (under)talked problem of Climate Change
 
-![alt text](https://www.itu.int/en/mediacentre/backgrounders/PublishingImages/climate-change-backgrounder.jpg)
-
 <p align="center">
   <img src="https://www.itu.int/en/mediacentre/backgrounders/PublishingImages/climate-change-backgrounder.jpg" alt="Climate change"/>
 </p>

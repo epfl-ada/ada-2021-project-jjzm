@@ -10,7 +10,7 @@
 
 Climate change is a global issue with global repercussions. We read, see, hear every day about the potential ecological disaster we are facing.
 
-We will try through this study to see if we can deny or not some prejudice about climate change. For example, what kind of people are concerned about climate change. Is it always the youngest or, perhaps, politicians from a left-wing party? 
+We will try, through this study, to conclude if we can deny or not some prejudice about climate change. For example, what kind of people are concerned about climate change. Is it always the youngest or, perhaps, politicians from a left-wing party? 
 
 It is believed that all people, regardless of their background, should have an impact when it comes to facing the problem of climate change. Our goal is to determine how different groups of people react to this threat. Even though a person's nationality, age, political party, etc. separates him or her from other people, the desire for a better tomorrow is why the differences should be left aside.
 
@@ -30,7 +30,7 @@ For our research questions, we will not need any additional datasets, except the
 
 ## Methods
 
-The methods, libraries, and algorithms that we going to use rely on the principles of text analysis, text summarization, and sentiment analysis. With the intention of addressing our research questions, we have chosen the following methods as the ones we find most suitable for dealing with the Quotebank data set:
+The methods, libraries, and algorithms that we going to use rely on the principles of text analysis, text summarization, and sentiment analysis. With the intention of addressing our research questions, we have chosen the following methods as the ones we find most suitable for dealing with the Quotebank data set and our problem:
 
 - *Fasttext* - The fasttext library will allow us to perform classification and try to distinguish between the quotes that were stated by someone in a left-wing, in a center or, in a right-wing political party.
 - *Observational study* - Based on the sentiment score of every quote, we will execute an observational study. The goal is to determine if there would be a difference when we compare the sentiment scores among people with similarlz observed covariates. For this, we will compare groups from different regions, political parties, and ages.
@@ -55,10 +55,6 @@ The methods, libraries, and algorithms that we going to use rely on the principl
 - <ins>**J**</ins>onatan: Primary data analysis, visualization of the key features for our problem, plotting the results
 - <ins>**Z**</ins>oran: Implementing the classification using the fasttext library
 - <ins>**M**</ins>axence: Planning the data story and the final readme file, compare groups based on sentiment scores
-
-## To go further
-
-We want to figure out climate change skepticism within the database through Machine Learning. Possibility of an external database integration with the purpose of backing all our findings up.
 
 ## Acknowledgements
 

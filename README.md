@@ -60,3 +60,6 @@ The methods, libraries, and algorithms that we going to use rely on the principl
 
 We want to figure out climate change skepticism within the database through Machine Learning. Possibility of an external database integration with the purpose of backing all our findings up.
 
+## Acknowledgements
+
+- Source for the image - [link](https://www.itu.int/en/mediacentre/backgrounders/Pages/climate-change.aspx)

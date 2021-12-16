@@ -32,7 +32,7 @@ For our research questions, we will not need any additional datasets, except the
 
 The methods, libraries, and algorithms that we going to use rely on the principles of text analysis, text summarization, and sentiment analysis. With the intention of addressing our research questions, we have chosen the following methods as the ones we find most suitable for dealing with the Quotebank data set and our problem:
 
-- *Fasttext* - The fasttext library will allow us to perform classification and try to distinguish between the quotes that were stated by someone in a left-wing, in a center or, in a right-wing political party.
+- *Fasttext* - The fasttext library will allow us to perform classification and try to distinguish between the quotes that were stated by someone in a left-wing, in a center or, in a right-wing political party. The goal is to train a model that will try to destinguish quotes made by a speaker belonging to a certain group of political parties.
 - *Observational study* - Based on the sentiment score of every quote, we will execute an observational study. The goal is to determine if there would be a difference when we compare the sentiment scores among people with similar observed covariates. For this, we will compare groups of different regions and ages.
 - *Sentiment analysis* - By adding the sentiment score and category to our quotes powered by the afinn library, we can conclude the statements and opinions that speakers have towards the issue of climate change. With the usage of a lexicon containing more than 3300 words and their polarity scores, afinn was able to provide us with the sentiment information for every extracted quote about climate change.
 

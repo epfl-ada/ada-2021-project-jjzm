@@ -14,6 +14,8 @@ We will try, through this study, to conclude if we can deny or not some prejudic
 
 It is believed that all people, regardless of their background, should have an impact when it comes to facing the problem of climate change. Our goal is to determine how different groups of people react to this threat. Even though a person's nationality, age, political party, etc. separates him or her from other people, the desire for a better tomorrow is why the differences should be left aside.
 
+[Link to the datastory](https://kascez.github.io/ada-datastory/)
+
 ## Research questions
 
 1. What political parties have talked the most about climate change in the media?
